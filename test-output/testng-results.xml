@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-16T15:31:35 IST" name="Default suite" finished-at="2024-04-16T15:32:31 IST" duration-ms="55309">
+    <groups>
+    </groups>
+    <test started-at="2024-04-16T15:31:35 IST" name="Default test" finished-at="2024-04-16T15:32:31 IST" duration-ms="55309">
+      <class name="tests.Create_Lead_Test">
+        <test-method is-config="true" signature="reportGeneration()[pri:0, instance:tests.Create_Lead_Test@28261e8e]" started-at="2024-04-16T15:31:35 IST" name="reportGeneration" finished-at="2024-04-16T15:31:35 IST" duration-ms="148" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportGeneration -->
+        <test-method is-config="true" signature="setFile()[pri:0, instance:tests.Create_Lead_Test@28261e8e]" started-at="2024-04-16T15:31:35 IST" name="setFile" finished-at="2024-04-16T15:31:35 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setFile -->
+        <test-method is-config="true" signature="testDetails()[pri:0, instance:tests.Create_Lead_Test@28261e8e]" started-at="2024-04-16T15:31:35 IST" name="testDetails" finished-at="2024-04-16T15:31:35 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDetails -->
+        <test-method is-config="true" signature="startApp()[pri:0, instance:tests.Create_Lead_Test@28261e8e]" started-at="2024-04-16T15:31:36 IST" name="startApp" finished-at="2024-04-16T15:31:54 IST" duration-ms="18160" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startApp -->
+        <test-method signature="createLrun(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:tests.Create_Lead_Test@28261e8e]" started-at="2024-04-16T15:31:54 IST" name="createLrun" data-provider="Fname" finished-at="2024-04-16T15:32:05 IST" duration-ms="10406" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TestLeaf]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Mega]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[E]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createLrun -->
+        <test-method is-config="true" signature="endUp()[pri:0, instance:tests.Create_Lead_Test@28261e8e]" started-at="2024-04-16T15:32:05 IST" name="endUp" finished-at="2024-04-16T15:32:05 IST" duration-ms="308" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endUp -->
+        <test-method is-config="true" signature="startApp()[pri:0, instance:tests.Create_Lead_Test@28261e8e]" started-at="2024-04-16T15:32:05 IST" name="startApp" finished-at="2024-04-16T15:32:20 IST" duration-ms="14844" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startApp -->
+        <test-method signature="createLrun(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:tests.Create_Lead_Test@28261e8e]" started-at="2024-04-16T15:32:20 IST" name="createLrun" data-provider="Fname" finished-at="2024-04-16T15:32:30 IST" duration-ms="10290" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Qeargle]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Raj]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[E]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createLrun -->
+        <test-method is-config="true" signature="endUp()[pri:0, instance:tests.Create_Lead_Test@28261e8e]" started-at="2024-04-16T15:32:30 IST" name="endUp" finished-at="2024-04-16T15:32:31 IST" duration-ms="452" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endUp -->
+        <test-method is-config="true" signature="endFlush()[pri:0, instance:tests.Create_Lead_Test@28261e8e]" started-at="2024-04-16T15:32:31 IST" name="endFlush" finished-at="2024-04-16T15:32:31 IST" duration-ms="240" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endFlush -->
+      </class> <!-- tests.Create_Lead_Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
